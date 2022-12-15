@@ -1,0 +1,15 @@
+F:\CSharpHWStelmashchukOleg006\proj001\bin\Debug\net6.0\proj001.exe
+F:\CSharpHWStelmashchukOleg006\proj001\bin\Debug\net6.0\proj001.deps.json
+F:\CSharpHWStelmashchukOleg006\proj001\bin\Debug\net6.0\proj001.runtimeconfig.json
+F:\CSharpHWStelmashchukOleg006\proj001\bin\Debug\net6.0\proj001.dll
+F:\CSharpHWStelmashchukOleg006\proj001\bin\Debug\net6.0\proj001.pdb
+F:\CSharpHWStelmashchukOleg006\proj001\obj\Debug\net6.0\proj001.csproj.AssemblyReference.cache
+F:\CSharpHWStelmashchukOleg006\proj001\obj\Debug\net6.0\proj001.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharpHWStelmashchukOleg006\proj001\obj\Debug\net6.0\proj001.AssemblyInfoInputs.cache
+F:\CSharpHWStelmashchukOleg006\proj001\obj\Debug\net6.0\proj001.AssemblyInfo.cs
+F:\CSharpHWStelmashchukOleg006\proj001\obj\Debug\net6.0\proj001.csproj.CoreCompileInputs.cache
+F:\CSharpHWStelmashchukOleg006\proj001\obj\Debug\net6.0\proj001.dll
+F:\CSharpHWStelmashchukOleg006\proj001\obj\Debug\net6.0\refint\proj001.dll
+F:\CSharpHWStelmashchukOleg006\proj001\obj\Debug\net6.0\proj001.pdb
+F:\CSharpHWStelmashchukOleg006\proj001\obj\Debug\net6.0\proj001.genruntimeconfig.cache
+F:\CSharpHWStelmashchukOleg006\proj001\obj\Debug\net6.0\ref\proj001.dll
